@@ -1,0 +1,42 @@
+time="2019-04-22T18:01:52+08:00" level=info msg="blockly starting..."
+time="2019-04-22T18:02:00+08:00" level=info msg="|304 |    299.713µs |            ::1 |GET |// |"
+time="2019-04-22T18:02:09+08:00" level=error msg="cmd ends..."
+time="2019-04-22T18:02:09+08:00" level=info msg="process finished successfully"
+time="2019-04-22T18:02:09+08:00" level=info msg="\nout:\nabc\nabc\nabc\nabc\nabc\nabc\nabc\nabc\nabc\nabc\n\nerr:\n\n"
+time="2019-04-22T18:02:09+08:00" level=info msg="|200 |  47.232155ms |            ::1 |GET |/run |"
+time="2019-04-22T18:02:25+08:00" level=error msg="len is 2"
+time="2019-04-22T18:02:25+08:00" level=error msg=49340
+time="2019-04-22T18:02:25+08:00" level=error msg=49342
+time="2019-04-22T18:02:25+08:00" level=info msg="|200 |    670.111µs |            ::1 |PUT |/stop |"
+time="2019-04-22T18:02:25+08:00" level=error msg="cmd ends..."
+time="2019-04-22T18:02:25+08:00" level=warning msg="process finished with error = signal: killed"
+time="2019-04-22T18:02:25+08:00" level=info msg="process finished successfully"
+time="2019-04-22T18:02:25+08:00" level=info msg="\nout:\n\nerr:\n\n"
+time="2019-04-22T18:02:25+08:00" level=info msg="|200 | 4.492682058s |            ::1 |GET |/run |"
+time="2019-04-22T18:02:46+08:00" level=error msg="cmd ends..."
+time="2019-04-22T18:02:46+08:00" level=info msg="process finished successfully"
+time="2019-04-22T18:02:46+08:00" level=info msg="\nout:\nabc\nabc\nabc\nabc\nabc\nabc\nabc\nabc\nabc\nabc\n\nerr:\n\n"
+time="2019-04-22T18:02:46+08:00" level=info msg="|200 |10.070972346s |            ::1 |GET |/run |"
+time="2019-04-22T18:03:07+08:00" level=error msg="len is 3"
+time="2019-04-22T18:03:07+08:00" level=error msg=49340
+time="2019-04-22T18:03:07+08:00" level=error msg=49342
+time="2019-04-22T18:03:07+08:00" level=error msg=49345
+time="2019-04-22T18:03:07+08:00" level=info msg="|200 |     188.13µs |            ::1 |PUT |/stop |"
+time="2019-04-22T18:03:16+08:00" level=error msg="len is 4"
+time="2019-04-22T18:03:16+08:00" level=error msg=49342
+time="2019-04-22T18:03:16+08:00" level=error msg=49345
+time="2019-04-22T18:03:16+08:00" level=error msg=49350
+time="2019-04-22T18:03:16+08:00" level=error msg=49340
+time="2019-04-22T18:03:16+08:00" level=info msg="|200 |    293.393µs |            ::1 |PUT |/stop |"
+time="2019-04-22T18:03:16+08:00" level=error msg="cmd ends..."
+time="2019-04-22T18:03:16+08:00" level=warning msg="process finished with error = signal: killed"
+time="2019-04-22T18:03:16+08:00" level=info msg="process finished successfully"
+time="2019-04-22T18:03:16+08:00" level=info msg="\nout:\n\nerr:\n\n"
+time="2019-04-22T18:03:16+08:00" level=info msg="|200 | 4.689824951s |            ::1 |GET |/run |"
+time="2019-04-22T18:03:30+08:00" level=error msg="cmd ends..."
+time="2019-04-22T18:03:30+08:00" level=info msg="process finished successfully"
+time="2019-04-22T18:03:30+08:00" level=info msg="\nout:\nabc\nabc\nabc\nabc\nabc\nabc\nabc\nabc\nabc\nabc\n\nerr:\n\n"
+time="2019-04-22T18:03:30+08:00" level=info msg="|200 |10.066492962s |            ::1 |GET |/run |"
+time="2019-05-27T18:18:01+08:00" level=info msg="audit starting..."
+time="2019-05-27T18:18:23+08:00" level=info msg="|200 |    505.915µs |            ::1 |GET |/ping |"
+time="2019-05-27T18:19:34+08:00" level=info msg="|200 |      9.731µs |            ::1 |GET |/ping |"
